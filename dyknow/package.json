@@ -1,0 +1,36 @@
+{
+  "name": "dyknowChromebook",
+  "version": "0.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-auto-install": "^0.2.3",
+    "grunt-bower-requirejs": "^2.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.12.2",
+    "karma": "^1.6.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-coverage": "^0.2.7",
+    "karma-jasmine": "~0.1.5",
+    "karma-requirejs": "^0.2.2",
+    "karma-teamcity-reporter": "^0.1.2",
+    "requirejs": "^2.1.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DyKnow/dyknowChromebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyKnow/dyknowChromebook/issues"
+  },
+  "homepage": "https://github.com/DyKnow/dyknowChromebook"
+}
